@@ -1,16 +1,11 @@
-section{
-    height: 80vh;
-    border: 1px solid black
+div{
+    height: 200px;
+    border: 3px solid black;
 }
 
-P{
-    color: blue !important
-}
 
-.red{
-    color: red
-}
-
-#title{
-    color: black;
+.pink{
+    background-color: rgb(138, 65, 93);
+    position: absolute;
+    width: 100%;
 }
